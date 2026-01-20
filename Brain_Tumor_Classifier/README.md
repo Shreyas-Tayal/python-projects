@@ -1,0 +1,1 @@
+This project aimed to be able differentiate between MRI images of healthy brains and those brains with gliomas, meningiomas and pituitary cancer.
